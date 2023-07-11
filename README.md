@@ -12,8 +12,8 @@ Yandex Practicum Data Analysis Course Projects
    - tasks: checking the correctness of the A/B test and adjusting the A/B test and building an event funnel
   
    - tools: A/B test, Jupiter Notebook, Python, Pandas, Numpy, Matpolib, seaborn, plotly
-5. [Market research for coffee shops](https://github.com/ikashkovskiy/yandex_da/blob/main/geotagged%20data%20analysis%20.ipynb)
+3. [Market research for coffee shops](https://github.com/ikashkovskiy/yandex_da/blob/main/geotagged%20data%20analysis%20.ipynb)
    - tasks: find opportunity to open a coffee shop in Moscow using geotagged dataset from map service Yandex.Maps
   
    - tools: Folium, Jupiter Notebook, Python, Pandas, Numpy, Matpolib, seaborn, plotly, JSON
-7.
+  
